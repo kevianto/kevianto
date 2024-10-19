@@ -1,5 +1,5 @@
 
-## 🌐 Socials:
+##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kevin Shahale) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x.com/ShahaleKevin?t=yPRCC_x-aygIZDfhT-E-jQ&s=09) 
 
 # 💻 Tech Stack:
